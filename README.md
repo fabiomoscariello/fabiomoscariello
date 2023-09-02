@@ -3,20 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Fabio, a full-time developer 👨‍💻 working remotely since 2013 🚀</div>  
-  
-
-- 🔭 I’m currently working on   
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+### <div align="center">I'm Fabio, a full-time developer 👨‍💻 working remotely since 2015 🚀</div>  
 
 <br/>  
 
