@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Fabio, a full-time developer 👨‍💻 working remotely since 2015 🚀</div>  
+### <div align="center">I'm Fabio, a full-time developer 👨‍💻 working remotely since 2018 🚀</div>  
 
 <br/>  
 
