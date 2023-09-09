@@ -22,7 +22,7 @@
 
 ### Backend  
 <div align="center">  
-<a href="https://github.com/fabiomoscariello/spring-boot/tree/main" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>
+<a href="https://github.com/fabiomoscariello/spring-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>
 <a href="https://github.com/fabiomoscariello/rifiuti-pagani-alexa-skill" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 </div>
 
@@ -47,7 +47,7 @@
 
 ### Tool  
 <div align="center"> 
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Python" height="50" /></a>
+<a href="https://github.com/fabiomoscariello/postman-learning" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Python" height="50" /></a>
 </div>
 
 </td></tr></table>  
